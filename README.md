@@ -13,6 +13,9 @@
 
 HTML&nbsp;
 CSS&nbsp;
+JAVASCRIPT&nbsp;
+PYTHON&nbsp;
+FLUTTER&nbsp;
 
 ### Tools:
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
