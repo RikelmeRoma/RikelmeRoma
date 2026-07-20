@@ -29,7 +29,8 @@ FLUTTER&nbsp;
   
 ### Studying in this moment:
 
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+PYTHON&nbsp;
+FLUTTER&nbsp;
 
 <!--
   grafico de commites:
